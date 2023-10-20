@@ -1,3 +1,3 @@
 # Test code conflict
 
-From desktop
+From desktop - From desktop
